@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 304eaba634dd9e245ab042b2dc0fb160
+timeCreated: 1496203731
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - foodDisplay: {instanceID: 0}
+  - farmPrefab: {fileID: 1366698190793656, guid: c9662bbd9756a2048acb290af9de70b7,
+      type: 2}
+  - energyDisplay: {instanceID: 0}
+  - reactorPrefab: {fileID: 1278980420650412, guid: 24d18ec5f2981ee409019e8db4816535,
+      type: 2}
+  - oilDisplay: {instanceID: 0}
+  - oilPrefab: {fileID: 1778713521463056, guid: 95722379d688b0e4482e39784ff6d626,
+      type: 2}
+  - scienceDisplay: {instanceID: 0}
+  - sciencePrefab: {instanceID: 0}
+  - colonistPrefab: {instanceID: 0}
+  - buildSite: {instanceID: 0}
+  - errorPanel: {instanceID: 0}
+  - errorText: {instanceID: 0}
+  - buildingPurchasedClip: {fileID: 8300000, guid: 950df4cfd1d68574584cf258e8ed83ac,
+      type: 3}
+  - clickedOnFarmClip: {fileID: 8300000, guid: 50392e2f5d7c6604894f88574d3afebf, type: 3}
+  - clickedOnReactorClip: {fileID: 8300000, guid: a2a3c552c36e85d4093ec7e50b5337fa,
+      type: 3}
+  - clickedOnScienceLabClip: {fileID: 8300000, guid: e09d4a1632011224aa797fecd0c53651,
+      type: 3}
+  - clickedOnOilRigClip: {fileID: 8300000, guid: bc3e89666e4be0843a60d54ffe299ae9,
+      type: 3}
+  - researchPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
